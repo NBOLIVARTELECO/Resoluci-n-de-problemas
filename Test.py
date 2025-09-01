@@ -17,7 +17,7 @@
 mensaje = "El valor de la variables es"
 #iMPLEMENTAR LA FUNCION INPUT, Y EXPLICAR CADA PARAMETRO EFECTUADO
 #A = input("Escriba un numero parar la variable A ")
-A = int("10")
+A = int("4")
 
 print(type(A), " y la variable valor",A)
 #Convetir los tipos de datos Float, Int, String entre si
@@ -29,6 +29,8 @@ result = A + A
 if(A>5):
     print("este es el resultado del if vverdadero")
     print(f"Lavariable a es igual a: {A}")
+else:
+    print("La condicion no se ejecuto")
 
 print(type(result), result)
 
