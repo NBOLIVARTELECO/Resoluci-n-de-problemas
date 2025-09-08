@@ -26,11 +26,19 @@ result = A + A
 # Estructura de control, Operaciones logicas
 #Booleano, 1,0, 
 
-if(A>5):
+x = int(input("ingrese un numero entre 0 y 5"))
+A = 5 == x
+if((A!= False) and (True)):
     print("este es el resultado del if vverdadero")
     print(f"Lavariable a es igual a: {A}")
 else:
     print("La condicion no se ejecuto")
+
+#else if tarea
+
+#for
+
+
 
 print(type(result), result)
 
