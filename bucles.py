@@ -18,6 +18,6 @@ while(x < 10):
         result = a*(x**2) + (b*x) + c 
         print(f"El resultado de la funcion cuadratica es : {x}, {result}")
 
-# realizar una encuesta a sus compañeros,
+# Tarea para el miercoles 10 septiembre, realizar una encuesta a sus compañeros,
 # si la persona es mayor de 18 añños, proporcion un consejo de economia
 # si la persona es mayor de 20, de un consejo de amor
